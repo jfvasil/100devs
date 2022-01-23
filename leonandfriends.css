@@ -1,0 +1,56 @@
+body{
+    background: rgb(133, 212, 238);
+    border: solid green;
+    width: 600px;
+    height: 75%;
+    margin: auto;
+    padding: 20px;
+    border-width: thick;
+    display: block;
+    box-sizing:border-box;
+    overflow: hidden;
+    text-align:center;
+}
+h1{
+    font-size: 40px;
+    font-style: italic;
+    color: white;
+}
+span a{
+    color: darkgreen;
+    text-decoration: underline;
+    
+}
+span{
+    color: white;
+    font-size: 20px;
+}
+a:hover{
+    color:red;
+}
+img{
+    float: right;
+    max-width: 40%;
+   max-height: 40%;
+}
+h2{
+    color: white;
+    font-weight: 700;
+    text-align: left;
+    font-size:30px;
+}
+section{
+    color:white;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+}
+footer a{
+    color:rgb(70, 202, 70);
+    font-size: 25px;
+    text-decoration: underline;
+}
+    
+
+
